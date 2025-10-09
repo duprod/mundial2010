@@ -1,0 +1,18 @@
+/* Fuente Coolvetica */
+@font-face {
+  font-family: 'Coolvetica';
+  src: url('coolvetica/CoolveticaRg.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Coolvetica', sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background: linear-gradient(90deg, #850000, #f00000) !important;
+}
+
+
